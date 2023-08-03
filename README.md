@@ -1,5 +1,5 @@
 # Built for practice
-DEMO: https://applestoree.netlify.app/
+DEMO : https://applestoree.netlify.app/
 
 # Getting Started with Create React App
 
